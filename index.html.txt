@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Vilaça Refrigeração - Soluções Comerciais e Residenciais</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header class="topo">
+    <h1>Vilaça Refrigeração</h1>
+    <p>Soluções rápidas e profissionais para BH e região</p>
+    <a class="btn" href="#contato">Fazer orçamento</a>
+  </header>
+
+  <section id="servicos">
+    <h2>Serviços</h2>
+    <ul>
+      <li>Manutenção de câmaras frias</li>
+      <li>Instalação e limpeza de ar-condicionado</li>
+      <li>Reparos comerciais urgentes</li>
+      <li>Atendimento residencial e comercial</li>
+    </ul>
+  </section>
+
+  <section id="sobre">
+    <h2>Sobre nós</h2>
+    <p>Profissionais experientes oferecendo atendimento ágil, seguro e de alta qualidade.</p>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>WhatsApp: <a href="https://wa.me/5531986500421">31 98650-0421</a></p>
+    <p>Email: contato@vilacarefrigeracao.com</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Vilaça Refrigeração - Todos os direitos reservados</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
